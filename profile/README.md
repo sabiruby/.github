@@ -15,7 +15,7 @@ desktop, the browser and microcontrollers, and embeds in a Rust application with
 | [sabiruby](https://github.com/sabiruby/sabiruby) | the VM, the reference mruby compiler as a crate, and the `sabiruby` command line tool |
 | [sabiruby-playground](https://github.com/sabiruby/sabiruby-playground) | write Ruby in the browser and watch the VM run it, one instruction at a time — [open it](https://sabiruby.github.io/sabiruby-playground/) |
 | [rubevy](https://github.com/sabiruby/rubevy) | SabiRuby inside the [Bevy](https://bevy.org) game engine: one VM, a Ruby task per entity, scripts that ask the game and wait |
-| [rubevy_games](https://github.com/sabiruby/rubevy_games) | games whose brains are Ruby, editable while they run — [SabiRuby Battle](https://sabiruby.github.io/rubevy_games/) plays in the browser |
+| [rubevy_games](https://github.com/sabiruby/rubevy_games) | games whose brains are Ruby, editable while they run — [SabiRuby Battle](https://sabiruby.github.io/rubevy_games/sabibots/) and [Garden](https://sabiruby.github.io/rubevy_games/garden/) play in the browser |
 
 ## What it is for
 
